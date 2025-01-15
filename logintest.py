@@ -17,7 +17,20 @@ USER_CREDENTIALS = {
     "admin": "password123",
     "user1": "securepass",
 }
-
+# Function to display the signup page
+def signup():
+    st.title("TFL Journey Planner - Signup")
+    username = st.text_input("Username")
+    password = st.text_input("Password", type="password")
+    signup_button = st.button("Signup")
+    
+    if signup_button:
+        if username in USER_CREDENTIALS:
+            st.error("User already exists")
+        else:
+            USER_CREDENTIALS[username] = password
+            st.success("Registration Complete.")
+            
 # Function to display the login page
 def login():
     st.title("TFL Journey Planner - Login")
