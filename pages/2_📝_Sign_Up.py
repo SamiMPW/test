@@ -1,16 +1,9 @@
 import streamlit as st
 import json
 import os
+from database import get_connection, create_tables
 
-def read_users_data():
-    if not os.path.exists("users_data.json"):
-        return {}
-    with open("users_data.json", "r") as file:
-        return json.load(file)
 
-def write_users_data(data):
-    with open("users_data.json", "w") as file:
-        json.dump(data, file, indent=4)
 
 def password_strength_check(password):
     """
@@ -48,17 +41,41 @@ def signup():
             st.error(msg)
             return
 
-        users = read_users_data()
-
-        if username in users:
-            st.error("Username already taken. Please choose another one.")
-        else:
-            # Create user
-            users[username] = password
-            write_users_data(users)
-            st.success("Sign-up successful! You can now log in.")
+        try:
+            con = get_connection()
+            
+            # cursor's job is to collect database queries etc
+            cursor = con.cursor()
+            
+            cursor.execute("SELECT * FROM users WHERE username = ?", (username,))
+            
+            # fetchone: Fetch the next row of a query result
+            # basically if name already exists, then the username is taken
+            if cursor.fetchone() is not None:
+                st.error("Username already exists.")
+                return
+            
+            # insert new user
+            cursor.execute("INSERT INTO users (username, password) VALUES (?, ?)", (username, password))
+            
+            # commit the changes
+            con.commit()
+            
+            # success message
+            st.success("User created successfully.")
+        
+        except Exception as e:
+            st.error(f"An error occurred: {str(e)}")
+        
+        # last step if we are able to run the code above, we close the connection to the db
+        finally:
+            if con:
+                con.close()
 
 def main():
+    
+    # we need to create the tables before we can run the signup function
+    create_tables()
     signup()
 
 if __name__ == "__main__":

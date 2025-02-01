@@ -4,6 +4,7 @@ import streamlit as st
 # databases: usernames, pws
 # database: previous journeys
 # database: station names, lines, times to travel between them
+# host app with streamlit
 
 # feedback page that sends email to developers
 # password strength check
