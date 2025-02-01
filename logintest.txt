@@ -1,15 +1,17 @@
 import streamlit as st
 
+# what i need to add:
 # databases: usernames, pws
 # database: previous journeys
 # database: station names, lines, times to travel between them
+# host app with streamlit
 
 # feedback page that sends email to developers
 # password strength check
 
 # def signup():
 # button to go to signup page
-# database basic encryption
+# database basic encryption, for later, for now just store in the app.
 
 
 # Placeholder users for login
@@ -17,6 +19,9 @@ USER_CREDENTIALS = {
     "admin": "password123",
     "user1": "securepass",
 }
+
+
+
 # Function to display the signup page
 def signup():
     st.title("TFL Journey Planner - Signup")
@@ -31,6 +36,8 @@ def signup():
             USER_CREDENTIALS[username] = password
             st.success("Registration Complete.")
             
+
+
 # Function to display the login page
 def login():
     st.title("TFL Journey Planner - Login")
