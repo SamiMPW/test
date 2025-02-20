@@ -1,0 +1,4673 @@
+[
+  {
+    "name": "Aldgate East Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5153,
+    "lon": -0.07208
+  },
+  {
+    "name": "Aldgate East Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51472,
+    "lon": -0.07088
+  },
+  {
+    "name": "Aldgate East Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51513,
+    "lon": -0.07172
+  },
+  {
+    "name": "Aldgate East Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51511,
+    "lon": -0.07182
+  },
+  {
+    "name": "Aldgate East Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5158,
+    "lon": -0.06997
+  },
+  {
+    "name": "Aldgate East Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51602,
+    "lon": -0.07002
+  },
+  {
+    "name": "Angel Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53184,
+    "lon": -0.10635
+  },
+  {
+    "name": "Angel Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53279,
+    "lon": -0.10599
+  },
+  {
+    "name": "Aldgate Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51405,
+    "lon": -0.07528
+  },
+  {
+    "name": "Barbican Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52031,
+    "lon": -0.09753
+  },
+  {
+    "name": "Bond Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51452,
+    "lon": -0.14914
+  },
+  {
+    "name": "Bond Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51439,
+    "lon": -0.1489
+  },
+  {
+    "name": "Bond Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51436,
+    "lon": -0.14933
+  },
+  {
+    "name": "Bond Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51378,
+    "lon": -0.14993
+  },
+  {
+    "name": "Bond Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51404,
+    "lon": -0.1491
+  },
+  {
+    "name": "Bond Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51433,
+    "lon": -0.14966
+  },
+  {
+    "name": "Bond Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51441,
+    "lon": -0.14735
+  },
+  {
+    "name": "Borough Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50123,
+    "lon": -0.0934
+  },
+  {
+    "name": "Borough Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50028,
+    "lon": -0.09218
+  },
+  {
+    "name": "Baker Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52246,
+    "lon": -0.15695
+  },
+  {
+    "name": "Baker Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52222,
+    "lon": -0.15628
+  },
+  {
+    "name": "Baker Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52268,
+    "lon": -0.1577
+  },
+  {
+    "name": "Baker Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52232,
+    "lon": -0.15738
+  },
+  {
+    "name": "Bayswater Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51239,
+    "lon": -0.18769
+  },
+  {
+    "name": "Covent Garden Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51307,
+    "lon": -0.12423
+  },
+  {
+    "name": "Covent Garden Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51302,
+    "lon": -0.12401
+  },
+  {
+    "name": "Chancery Lane Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51811,
+    "lon": -0.1115
+  },
+  {
+    "name": "Chancery Lane Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51823,
+    "lon": -0.11147
+  },
+  {
+    "name": "Chancery Lane Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51818,
+    "lon": -0.11111
+  },
+  {
+    "name": "Charing Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50824,
+    "lon": -0.12512
+  },
+  {
+    "name": "Charing Cross Stn  / Trafalgar Square",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50857,
+    "lon": -0.12469
+  },
+  {
+    "name": "Charing Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50894,
+    "lon": -0.12484
+  },
+  {
+    "name": "Charing Cross Stn  / Trafalgar Square",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50844,
+    "lon": -0.12587
+  },
+  {
+    "name": "Charing Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50933,
+    "lon": -0.12466
+  },
+  {
+    "name": "Charing Cross Stn  / Trafalgar Square",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50868,
+    "lon": -0.12489
+  },
+  {
+    "name": "Charing Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50819,
+    "lon": -0.12562
+  },
+  {
+    "name": "Charing Cross Stn  / Trafalgar Square",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50785,
+    "lon": -0.12716
+  },
+  {
+    "name": "Charing Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50769,
+    "lon": -0.12745
+  },
+  {
+    "name": "Charing Cross Stn  / Trafalgar Square",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50902,
+    "lon": -0.12581
+  },
+  {
+    "name": "Charing Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50731,
+    "lon": -0.12841
+  },
+  {
+    "name": "Charing Cross Stn  / Trafalgar Square",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50779,
+    "lon": -0.12709
+  },
+  {
+    "name": "Cannon Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51127,
+    "lon": -0.09028
+  },
+  {
+    "name": "Cannon Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51158,
+    "lon": -0.09079
+  },
+  {
+    "name": "Embankment Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50738,
+    "lon": -0.12257
+  },
+  {
+    "name": "Embankment Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50697,
+    "lon": -0.12191
+  },
+  {
+    "name": "Edgware Road Station  / Bakerloo Line",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52021,
+    "lon": -0.17027
+  },
+  {
+    "name": "Edgware Road Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51967,
+    "lon": -0.16803
+  },
+  {
+    "name": "Edgware Road Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52047,
+    "lon": -0.1665
+  },
+  {
+    "name": "Euston Square Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52581,
+    "lon": -0.13575
+  },
+  {
+    "name": "Euston Square Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52533,
+    "lon": -0.13557
+  },
+  {
+    "name": "Farringdon Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5201,
+    "lon": -0.1047
+  },
+  {
+    "name": "Farringdon Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52112,
+    "lon": -0.10522
+  },
+  {
+    "name": "Goodge Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52067,
+    "lon": -0.1345
+  },
+  {
+    "name": "Green Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50673,
+    "lon": -0.14274
+  },
+  {
+    "name": "Green Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50647,
+    "lon": -0.14314
+  },
+  {
+    "name": "Green Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50684,
+    "lon": -0.14283
+  },
+  {
+    "name": "Green Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50685,
+    "lon": -0.14298
+  },
+  {
+    "name": "Green Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50652,
+    "lon": -0.14291
+  },
+  {
+    "name": "Great Portland Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52388,
+    "lon": -0.1439
+  },
+  {
+    "name": "Great Portland St Stn  / Euston Rd",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52374,
+    "lon": -0.1437
+  },
+  {
+    "name": "Gloucester Road Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49433,
+    "lon": -0.18258
+  },
+  {
+    "name": "Gloucester Road Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.4946,
+    "lon": -0.18272
+  },
+  {
+    "name": "Holborn Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51736,
+    "lon": -0.11999
+  },
+  {
+    "name": "Holborn Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51759,
+    "lon": -0.11998
+  },
+  {
+    "name": "Hyde Park Corner Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50493,
+    "lon": -0.15203
+  },
+  {
+    "name": "Hyde Park Corner",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50308,
+    "lon": -0.15142
+  },
+  {
+    "name": "Hyde Park Corner Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50307,
+    "lon": -0.15277
+  },
+  {
+    "name": "Hyde Park Corner",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50274,
+    "lon": -0.15309
+  },
+  {
+    "name": "Hyde Park Corner Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50298,
+    "lon": -0.15169
+  },
+  {
+    "name": "Hyde Park Corner",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50272,
+    "lon": -0.1526
+  },
+  {
+    "name": "Hyde Park Corner Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50307,
+    "lon": -0.15325
+  },
+  {
+    "name": "High Street Kensington Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50103,
+    "lon": -0.19292
+  },
+  {
+    "name": "Knightsbridge Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50196,
+    "lon": -0.16034
+  },
+  {
+    "name": "Knightsbridge Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50176,
+    "lon": -0.16003
+  },
+  {
+    "name": "Knightsbridge Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50169,
+    "lon": -0.16088
+  },
+  {
+    "name": "Knightsbridge Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49991,
+    "lon": -0.16261
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5302,
+    "lon": -0.12385
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53024,
+    "lon": -0.12354
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53015,
+    "lon": -0.12343
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53006,
+    "lon": -0.12364
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53008,
+    "lon": -0.1241
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53071,
+    "lon": -0.1244
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53092,
+    "lon": -0.12427
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53049,
+    "lon": -0.12376
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5302,
+    "lon": -0.1245
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53213,
+    "lon": -0.12615
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53212,
+    "lon": -0.12474
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53012,
+    "lon": -0.12486
+  },
+  {
+    "name": "King's Cross Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.53315,
+    "lon": -0.12485
+  },
+  {
+    "name": "Lambeth North Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49885,
+    "lon": -0.11221
+  },
+  {
+    "name": "Lancaster Gate Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51168,
+    "lon": -0.17542
+  },
+  {
+    "name": "Leicester Square Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51128,
+    "lon": -0.12823
+  },
+  {
+    "name": "Leicester Square Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5115,
+    "lon": -0.12844
+  },
+  {
+    "name": "Leicester Square Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51161,
+    "lon": -0.12793
+  },
+  {
+    "name": "Leicester Square Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51173,
+    "lon": -0.12822
+  },
+  {
+    "name": "Liverpool Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51714,
+    "lon": -0.08276
+  },
+  {
+    "name": "Liverpool Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5178,
+    "lon": -0.08156
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51352,
+    "lon": -0.16078
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.512,
+    "lon": -0.1575
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51302,
+    "lon": -0.15828
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51134,
+    "lon": -0.15819
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51236,
+    "lon": -0.15866
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51328,
+    "lon": -0.15818
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51259,
+    "lon": -0.15834
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51201,
+    "lon": -0.16008
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5135,
+    "lon": -0.15845
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51171,
+    "lon": -0.15735
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51186,
+    "lon": -0.15843
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51189,
+    "lon": -0.15802
+  },
+  {
+    "name": "Marble Arch Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51299,
+    "lon": -0.16279
+  },
+  {
+    "name": "Monument Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51051,
+    "lon": -0.08596
+  },
+  {
+    "name": "Monument Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51072,
+    "lon": -0.08647
+  },
+  {
+    "name": "Monument Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51091,
+    "lon": -0.08649
+  },
+  {
+    "name": "Monument Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51077,
+    "lon": -0.0867
+  },
+  {
+    "name": "Monument Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51165,
+    "lon": -0.08715
+  },
+  {
+    "name": "Mansion House Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51216,
+    "lon": -0.09389
+  },
+  {
+    "name": "Mansion House Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51233,
+    "lon": -0.0942
+  },
+  {
+    "name": "Mansion House Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5123,
+    "lon": -0.09335
+  },
+  {
+    "name": "Mansion House Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51235,
+    "lon": -0.0942
+  },
+  {
+    "name": "Mansion House Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51251,
+    "lon": -0.09391
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51537,
+    "lon": -0.14217
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51533,
+    "lon": -0.14186
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51517,
+    "lon": -0.14228
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51512,
+    "lon": -0.14192
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51523,
+    "lon": -0.14114
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51524,
+    "lon": -0.14154
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.515,
+    "lon": -0.14099
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51533,
+    "lon": -0.14108
+  },
+  {
+    "name": "Oxford Circus Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51596,
+    "lon": -0.14229
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51549,
+    "lon": -0.1757
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51605,
+    "lon": -0.17511
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5167,
+    "lon": -0.17433
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51637,
+    "lon": -0.17594
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51023,
+    "lon": -0.1352
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50992,
+    "lon": -0.13526
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50974,
+    "lon": -0.13514
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50998,
+    "lon": -0.13432
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50955,
+    "lon": -0.13455
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50954,
+    "lon": -0.13493
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51014,
+    "lon": -0.13418
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51015,
+    "lon": -0.13397
+  },
+  {
+    "name": "Pimlico Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.48896,
+    "lon": -0.13372
+  },
+  {
+    "name": "Pimlico Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.48909,
+    "lon": -0.133
+  },
+  {
+    "name": "Pimlico Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.48929,
+    "lon": -0.13372
+  },
+  {
+    "name": "Queensway Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51062,
+    "lon": -0.18717
+  },
+  {
+    "name": "Queensway Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51025,
+    "lon": -0.18713
+  },
+  {
+    "name": "Regent's Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52359,
+    "lon": -0.14671
+  },
+  {
+    "name": "Russell Square",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52318,
+    "lon": -0.12435
+  },
+  {
+    "name": "St James's Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49962,
+    "lon": -0.13313
+  },
+  {
+    "name": "St James's Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49906,
+    "lon": -0.13534
+  },
+  {
+    "name": "St James's Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49964,
+    "lon": -0.13365
+  },
+  {
+    "name": "St James's Park Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49937,
+    "lon": -0.13336
+  },
+  {
+    "name": "South Kensington Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49384,
+    "lon": -0.17304
+  },
+  {
+    "name": "South Kensington Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49407,
+    "lon": -0.1741
+  },
+  {
+    "name": "South Kensington Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.4942,
+    "lon": -0.17409
+  },
+  {
+    "name": "South Kensington Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.4947,
+    "lon": -0.17349
+  },
+  {
+    "name": "South Kensington Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49567,
+    "lon": -0.17377
+  },
+  {
+    "name": "St Paul's Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51512,
+    "lon": -0.09713
+  },
+  {
+    "name": "St Paul's Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51494,
+    "lon": -0.09758
+  },
+  {
+    "name": "Sloane Square Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49249,
+    "lon": -0.15663
+  },
+  {
+    "name": "Sloane Square",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49217,
+    "lon": -0.15625
+  },
+  {
+    "name": "Southwark Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50375,
+    "lon": -0.10469
+  },
+  {
+    "name": "Tottenham Court Road",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51625,
+    "lon": -0.13062
+  },
+  {
+    "name": "Tottenham Court Road Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51657,
+    "lon": -0.13016
+  },
+  {
+    "name": "Tottenham Court Road",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51589,
+    "lon": -0.12984
+  },
+  {
+    "name": "Tottenham Court Road Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51628,
+    "lon": -0.13
+  },
+  {
+    "name": "Temple Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51101,
+    "lon": -0.11397
+  },
+  {
+    "name": "Tower Hill",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5102,
+    "lon": -0.07681
+  },
+  {
+    "name": "Tower Hill",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50983,
+    "lon": -0.07648
+  },
+  {
+    "name": "Victoria Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49555,
+    "lon": -0.14197
+  },
+  {
+    "name": "Victoria Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49686,
+    "lon": -0.14176
+  },
+  {
+    "name": "Warren Street Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52457,
+    "lon": -0.13799
+  },
+  {
+    "name": "Warren Street Stn / Tottenham Court Rd",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5245,
+    "lon": -0.13808
+  },
+  {
+    "name": "Westminster Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50125,
+    "lon": -0.12377
+  },
+  {
+    "name": "Westminster Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50095,
+    "lon": -0.12495
+  },
+  {
+    "name": "Westminster Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50086,
+    "lon": -0.12383
+  },
+  {
+    "name": "Westminster Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50125,
+    "lon": -0.12607
+  },
+  {
+    "name": "Westminster Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50126,
+    "lon": -0.12651
+  },
+  {
+    "name": "Westminster Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50115,
+    "lon": -0.12386
+  },
+  {
+    "name": "Aldgate East Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.515037,
+    "lon": -0.072384
+  },
+  {
+    "name": "Aldgate East Underground Station",
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.515434,
+    "lon": -0.071358
+  },
+  {
+    "name": "Aldgate East Underground Station",
+    "lines": [
+      "Hammersmith & City",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.515477,
+    "lon": -0.071255
+  },
+  {
+    "name": "Angel Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.532624,
+    "lon": -0.105898
+  },
+  {
+    "name": "Angel Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.53186,
+    "lon": -0.10593
+  },
+  {
+    "name": "Angel Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.531788,
+    "lon": -0.105919
+  },
+  {
+    "name": "Aldgate Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.514246,
+    "lon": -0.075689
+  },
+  {
+    "name": "Aldgate Underground Station",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.51419,
+    "lon": -0.075547
+  },
+  {
+    "name": "Aldgate Underground Station",
+    "lines": [
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.514144,
+    "lon": -0.075506
+  },
+  {
+    "name": "Aldgate Underground Station",
+    "lines": [
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.51409,
+    "lon": -0.075465
+  },
+  {
+    "name": "Aldgate Underground Station",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.514044,
+    "lon": -0.075423
+  },
+  {
+    "name": "Barbican Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.520275,
+    "lon": -0.097993
+  },
+  {
+    "name": "Barbican Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.520319,
+    "lon": -0.097948
+  },
+  {
+    "name": "Barbican Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Hammersmith & City",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.520303,
+    "lon": -0.098049
+  },
+  {
+    "name": "Blackfriars Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.511581,
+    "lon": -0.103659
+  },
+  {
+    "name": "Blackfriars Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.511603,
+    "lon": -0.103341
+  },
+  {
+    "name": "Blackfriars Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.511619,
+    "lon": -0.103239
+  },
+  {
+    "name": "Bond Street Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.514304,
+    "lon": -0.149723
+  },
+  {
+    "name": "Bond Street Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.514417,
+    "lon": -0.149444
+  },
+  {
+    "name": "Bond Street Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.514736,
+    "lon": -0.149158
+  },
+  {
+    "name": "Bond Street Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.514682,
+    "lon": -0.14916
+  },
+  {
+    "name": "Bond Street Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.514299,
+    "lon": -0.149377
+  },
+  {
+    "name": "Bank Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51342,
+    "lon": -0.088954
+  },
+  {
+    "name": "Bank Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.513356,
+    "lon": -0.088899
+  },
+  {
+    "name": "Bank Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.513335,
+    "lon": -0.088712
+  },
+  {
+    "name": "Bank Underground Station",
+    "lines": [
+      "Waterloo & City"
+    ],
+    "zone": "1",
+    "lat": 51.513132,
+    "lon": -0.090047
+  },
+  {
+    "name": "Bank Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.512314,
+    "lon": -0.087847
+  },
+  {
+    "name": "Bank Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.51225,
+    "lon": -0.087792
+  },
+  {
+    "name": "Bank Underground Station",
+    "lines": [
+      "Waterloo & City"
+    ],
+    "zone": "1",
+    "lat": 51.513309,
+    "lon": -0.088339
+  },
+  {
+    "name": "Borough Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.501199,
+    "lon": -0.09337
+  },
+  {
+    "name": "Borough Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.500985,
+    "lon": -0.093508
+  },
+  {
+    "name": "Borough Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.500942,
+    "lon": -0.093597
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.522883,
+    "lon": -0.15713
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.523212,
+    "lon": -0.157506
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.523238,
+    "lon": -0.15739
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.522276,
+    "lon": -0.156838
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Hammersmith & City",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.522301,
+    "lon": -0.156736
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.523153,
+    "lon": -0.157696
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.523178,
+    "lon": -0.157594
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.522851,
+    "lon": -0.156829
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.522796,
+    "lon": -0.156773
+  },
+  {
+    "name": "Bayswater Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.512284,
+    "lon": -0.187938
+  },
+  {
+    "name": "Bayswater Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.51235,
+    "lon": -0.188151
+  },
+  {
+    "name": "Bayswater Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.512342,
+    "lon": -0.188209
+  },
+  {
+    "name": "Covent Garden Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.513093,
+    "lon": -0.124436
+  },
+  {
+    "name": "Covent Garden Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.513038,
+    "lon": -0.12438
+  },
+  {
+    "name": "Covent Garden Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.513056,
+    "lon": -0.124336
+  },
+  {
+    "name": "Chancery Lane Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.518247,
+    "lon": -0.111583
+  },
+  {
+    "name": "Chancery Lane Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.51831,
+    "lon": -0.112143
+  },
+  {
+    "name": "Chancery Lane Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.51829,
+    "lon": -0.112014
+  },
+  {
+    "name": "Charing Cross Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50741,
+    "lon": -0.127277
+  },
+  {
+    "name": "Charing Cross Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.507451,
+    "lon": -0.128097
+  },
+  {
+    "name": "Charing Cross Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.50818,
+    "lon": -0.125891
+  },
+  {
+    "name": "Charing Cross Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.508223,
+    "lon": -0.125803
+  },
+  {
+    "name": "Charing Cross Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.508842,
+    "lon": -0.125691
+  },
+  {
+    "name": "Charing Cross Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.508804,
+    "lon": -0.125592
+  },
+  {
+    "name": "Cannon Street Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51151,
+    "lon": -0.090432
+  },
+  {
+    "name": "Cannon Street Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.511366,
+    "lon": -0.090423
+  },
+  {
+    "name": "Cannon Street Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.511357,
+    "lon": -0.090424
+  },
+  {
+    "name": "Embankment Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.507058,
+    "lon": -0.122666
+  },
+  {
+    "name": "Embankment Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.506603,
+    "lon": -0.122886
+  },
+  {
+    "name": "Embankment Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.506583,
+    "lon": -0.122772
+  },
+  {
+    "name": "Embankment Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.507061,
+    "lon": -0.122291
+  },
+  {
+    "name": "Embankment Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.506998,
+    "lon": -0.122308
+  },
+  {
+    "name": "Embankment Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.507263,
+    "lon": -0.122542
+  },
+  {
+    "name": "Embankment Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.50729,
+    "lon": -0.122541
+  },
+  {
+    "name": "Edgware Road (Bakerloo) Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.520299,
+    "lon": -0.17015
+  },
+  {
+    "name": "Edgware Road (Bakerloo) Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.520454,
+    "lon": -0.170273
+  },
+  {
+    "name": "Edgware Road (Bakerloo) Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.520488,
+    "lon": -0.170185
+  },
+  {
+    "name": "Edgware Road (Circle Line) Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.519858,
+    "lon": -0.167832
+  },
+  {
+    "name": "Edgware Road (Circle Line) Underground Station",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.519803,
+    "lon": -0.167748
+  },
+  {
+    "name": "Edgware Road (Circle Line) Underground Station",
+    "lines": [
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.519803,
+    "lon": -0.167734
+  },
+  {
+    "name": "Edgware Road (Circle Line) Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.519802,
+    "lon": -0.167719
+  },
+  {
+    "name": "Edgware Road (Circle Line) Underground Station",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.519802,
+    "lon": -0.167705
+  },
+  {
+    "name": "Euston Square Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.525604,
+    "lon": -0.135829
+  },
+  {
+    "name": "Euston Square Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.525631,
+    "lon": -0.135309
+  },
+  {
+    "name": "Euston Square Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.525614,
+    "lon": -0.135367
+  },
+  {
+    "name": "Euston Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.527999,
+    "lon": -0.133785
+  },
+  {
+    "name": "Euston Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.528055,
+    "lon": -0.132182
+  },
+  {
+    "name": "Euston Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.527824,
+    "lon": -0.131846
+  },
+  {
+    "name": "Euston Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.528344,
+    "lon": -0.1323
+  },
+  {
+    "name": "Euston Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.528239,
+    "lon": -0.134193
+  },
+  {
+    "name": "Euston Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.528186,
+    "lon": -0.134239
+  },
+  {
+    "name": "Euston Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.528089,
+    "lon": -0.132066
+  },
+  {
+    "name": "Farringdon Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.520252,
+    "lon": -0.104913
+  },
+  {
+    "name": "Farringdon Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.520433,
+    "lon": -0.104992
+  },
+  {
+    "name": "Farringdon Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Hammersmith & City",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.52037,
+    "lon": -0.104937
+  },
+  {
+    "name": "Farringdon Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.520344,
+    "lon": -0.105558
+  },
+  {
+    "name": "Farringdon Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.520343,
+    "lon": -0.105543
+  },
+  {
+    "name": "Goodge Street Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.520599,
+    "lon": -0.134361
+  },
+  {
+    "name": "Goodge Street Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.520672,
+    "lon": -0.134488
+  },
+  {
+    "name": "Goodge Street Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.520679,
+    "lon": -0.134358
+  },
+  {
+    "name": "Green Park Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.506947,
+    "lon": -0.142787
+  },
+  {
+    "name": "Green Park Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.506543,
+    "lon": -0.142256
+  },
+  {
+    "name": "Green Park Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.506183,
+    "lon": -0.141694
+  },
+  {
+    "name": "Green Park Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.506163,
+    "lon": -0.14158
+  },
+  {
+    "name": "Green Park Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.507122,
+    "lon": -0.14193
+  },
+  {
+    "name": "Green Park Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.506507,
+    "lon": -0.142257
+  },
+  {
+    "name": "Green Park Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.507115,
+    "lon": -0.142045
+  },
+  {
+    "name": "Great Portland Street Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.52384,
+    "lon": -0.144262
+  },
+  {
+    "name": "Great Portland Street Underground Station",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.523845,
+    "lon": -0.144002
+  },
+  {
+    "name": "Great Portland Street Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.523836,
+    "lon": -0.144017
+  },
+  {
+    "name": "Gloucester Road Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.494316,
+    "lon": -0.182658
+  },
+  {
+    "name": "Gloucester Road Underground Station",
+    "lines": [
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.494325,
+    "lon": -0.183205
+  },
+  {
+    "name": "Gloucester Road Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.494305,
+    "lon": -0.183105
+  },
+  {
+    "name": "Gloucester Road Underground Station",
+    "lines": [
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.494286,
+    "lon": -0.183005
+  },
+  {
+    "name": "Gloucester Road Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.494262,
+    "lon": -0.183207
+  },
+  {
+    "name": "Gloucester Road Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.494233,
+    "lon": -0.183079
+  },
+  {
+    "name": "Holborn Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51758,
+    "lon": -0.120475
+  },
+  {
+    "name": "Holborn Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.517708,
+    "lon": -0.119504
+  },
+  {
+    "name": "Holborn Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.517706,
+    "lon": -0.11936
+  },
+  {
+    "name": "Holborn Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.517594,
+    "lon": -0.120244
+  },
+  {
+    "name": "Holborn Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.517513,
+    "lon": -0.120204
+  },
+  {
+    "name": "Hyde Park Corner Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.503035,
+    "lon": -0.152441
+  },
+  {
+    "name": "Hyde Park Corner Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.502785,
+    "lon": -0.153129
+  },
+  {
+    "name": "Hyde Park Corner",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.502866,
+    "lon": -0.153759
+  },
+  {
+    "name": "High Street Kensington Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.501055,
+    "lon": -0.192792
+  },
+  {
+    "name": "High Street Kensington Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.500435,
+    "lon": -0.192197
+  },
+  {
+    "name": "High Street Kensington Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.500362,
+    "lon": -0.192142
+  },
+  {
+    "name": "Knightsbridge Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.501669,
+    "lon": -0.160508
+  },
+  {
+    "name": "Knightsbridge Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.501463,
+    "lon": -0.161179
+  },
+  {
+    "name": "Knightsbridge Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.5015,
+    "lon": -0.161235
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.530663,
+    "lon": -0.123194
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.530433,
+    "lon": -0.12231
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.530467,
+    "lon": -0.122208
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.529911,
+    "lon": -0.123961
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.530832,
+    "lon": -0.121991
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.53084,
+    "lon": -0.121875
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.531289,
+    "lon": -0.12301
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.531361,
+    "lon": -0.123007
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.529874,
+    "lon": -0.123919
+  },
+  {
+    "name": "Lambeth North Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.498808,
+    "lon": -0.112315
+  },
+  {
+    "name": "Lambeth North Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.498519,
+    "lon": -0.111174
+  },
+  {
+    "name": "Lambeth North",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.498483,
+    "lon": -0.111175
+  },
+  {
+    "name": "Lancaster Gate Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.511723,
+    "lon": -0.175494
+  },
+  {
+    "name": "Lancaster Gate Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.511773,
+    "lon": -0.174685
+  },
+  {
+    "name": "Lancaster Gate Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.511856,
+    "lon": -0.17484
+  },
+  {
+    "name": "London Bridge Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.505721,
+    "lon": -0.088873
+  },
+  {
+    "name": "London Bridge Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.505716,
+    "lon": -0.088599
+  },
+  {
+    "name": "London Bridge Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.505839,
+    "lon": -0.087844
+  },
+  {
+    "name": "London Bridge Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.505021,
+    "lon": -0.08955
+  },
+  {
+    "name": "London Bridge Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.505551,
+    "lon": -0.088908
+  },
+  {
+    "name": "Leicester Square Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.511386,
+    "lon": -0.128426
+  },
+  {
+    "name": "Leicester Square Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.511973,
+    "lon": -0.128618
+  },
+  {
+    "name": "Leicester Square Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.51191,
+    "lon": -0.128577
+  },
+  {
+    "name": "Leicester Square Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.511598,
+    "lon": -0.127667
+  },
+  {
+    "name": "Leicester Square Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.511624,
+    "lon": -0.127609
+  },
+  {
+    "name": "Liverpool Street Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.517372,
+    "lon": -0.083182
+  },
+  {
+    "name": "Liverpool Street Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.51811,
+    "lon": -0.082127
+  },
+  {
+    "name": "Liverpool Street Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.518058,
+    "lon": -0.082201
+  },
+  {
+    "name": "Liverpool Street Underground Station",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.517269,
+    "lon": -0.082364
+  },
+  {
+    "name": "Liverpool Street Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.517259,
+    "lon": -0.082278
+  },
+  {
+    "name": "Marble Arch Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.513424,
+    "lon": -0.158953
+  },
+  {
+    "name": "Marble Arch Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.513592,
+    "lon": -0.157606
+  },
+  {
+    "name": "Marble Arch",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.513382,
+    "lon": -0.157946
+  },
+  {
+    "name": "Moorgate Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.518176,
+    "lon": -0.088322
+  },
+  {
+    "name": "Moorgate Underground Station",
+    "lines": [
+      "Hammersmith & City",
+      "Circle",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.518463,
+    "lon": -0.089406
+  },
+  {
+    "name": "Moorgate Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.518492,
+    "lon": -0.089505
+  },
+  {
+    "name": "Moorgate Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.518869,
+    "lon": -0.087818
+  },
+  {
+    "name": "Moorgate Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.518931,
+    "lon": -0.087786
+  },
+  {
+    "name": "Monument Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.5107,
+    "lon": -0.085969
+  },
+  {
+    "name": "Monument Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.510749,
+    "lon": -0.086169
+  },
+  {
+    "name": "Monument Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.51072,
+    "lon": -0.086069
+  },
+  {
+    "name": "Mansion House Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.512117,
+    "lon": -0.094009
+  },
+  {
+    "name": "Mansion House Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.511707,
+    "lon": -0.094776
+  },
+  {
+    "name": "Mansion House Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.511702,
+    "lon": -0.09505
+  },
+  {
+    "name": "Mansion House Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.511695,
+    "lon": -0.095165
+  },
+  {
+    "name": "Marylebone Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.522322,
+    "lon": -0.163207
+  },
+  {
+    "name": "Marylebone Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.522119,
+    "lon": -0.163475
+  },
+  {
+    "name": "Marylebone Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.522144,
+    "lon": -0.163359
+  },
+  {
+    "name": "Old Street Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.525864,
+    "lon": -0.08777
+  },
+  {
+    "name": "Old Street Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.524988,
+    "lon": -0.087547
+  },
+  {
+    "name": "Old Street Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.525456,
+    "lon": -0.087527
+  },
+  {
+    "name": "Oxford Circus Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.515224,
+    "lon": -0.141903
+  },
+  {
+    "name": "Oxford Circus Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.515377,
+    "lon": -0.141363
+  },
+  {
+    "name": "Oxford Circus Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.51576,
+    "lon": -0.14227
+  },
+  {
+    "name": "Oxford Circus Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.515721,
+    "lon": -0.142084
+  },
+  {
+    "name": "Oxford Circus Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.515697,
+    "lon": -0.142244
+  },
+  {
+    "name": "Oxford Circus Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.515384,
+    "lon": -0.141248
+  },
+  {
+    "name": "Oxford Circus Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.515794,
+    "lon": -0.14211
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.516581,
+    "lon": -0.175689
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.516299,
+    "lon": -0.17547
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.516345,
+    "lon": -0.175526
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.515383,
+    "lon": -0.175521
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.515436,
+    "lon": -0.175447
+  },
+  {
+    "name": "Piccadilly Circus Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.51005,
+    "lon": -0.133798
+  },
+  {
+    "name": "Piccadilly Circus Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.510083,
+    "lon": -0.135281
+  },
+  {
+    "name": "Piccadilly Circus Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.510117,
+    "lon": -0.135179
+  },
+  {
+    "name": "Piccadilly Circus Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.509439,
+    "lon": -0.135495
+  },
+  {
+    "name": "Piccadilly Circus Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.509592,
+    "lon": -0.134926
+  },
+  {
+    "name": "Pimlico Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.489097,
+    "lon": -0.133761
+  },
+  {
+    "name": "Pimlico Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.489219,
+    "lon": -0.134044
+  },
+  {
+    "name": "Pimlico Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.489191,
+    "lon": -0.134592
+  },
+  {
+    "name": "Queensway Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.510312,
+    "lon": -0.187152
+  },
+  {
+    "name": "Queensway Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.510312,
+    "lon": -0.187209
+  },
+  {
+    "name": "Queensway Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.510457,
+    "lon": -0.187232
+  },
+  {
+    "name": "Regent's Park Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.523344,
+    "lon": -0.146444
+  },
+  {
+    "name": "Regent's Park Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.523153,
+    "lon": -0.146294
+  },
+  {
+    "name": "Regent's Park Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.523089,
+    "lon": -0.146267
+  },
+  {
+    "name": "Russell Square Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.523073,
+    "lon": -0.124285
+  },
+  {
+    "name": "Russell Square Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.523461,
+    "lon": -0.124399
+  },
+  {
+    "name": "Russell Square Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.523398,
+    "lon": -0.124358
+  },
+  {
+    "name": "St. James's Park Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.499544,
+    "lon": -0.133608
+  },
+  {
+    "name": "St. James's Park Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.499377,
+    "lon": -0.134421
+  },
+  {
+    "name": "St. James's Park Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.499343,
+    "lon": -0.134509
+  },
+  {
+    "name": "South Kensington Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.494094,
+    "lon": -0.174138
+  },
+  {
+    "name": "South Kensington Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.494104,
+    "lon": -0.173057
+  },
+  {
+    "name": "South Kensington Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.494019,
+    "lon": -0.173363
+  },
+  {
+    "name": "South Kensington Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.494018,
+    "lon": -0.173262
+  },
+  {
+    "name": "South Kensington Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.494102,
+    "lon": -0.172913
+  },
+  {
+    "name": "St. Paul's Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.514936,
+    "lon": -0.097567
+  },
+  {
+    "name": "St. Paul's Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.515173,
+    "lon": -0.098321
+  },
+  {
+    "name": "St. Paul's Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.515192,
+    "lon": -0.098392
+  },
+  {
+    "name": "Sloane Square Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.49227,
+    "lon": -0.156377
+  },
+  {
+    "name": "Sloane Square Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.492338,
+    "lon": -0.156144
+  },
+  {
+    "name": "Sloane Square Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.492309,
+    "lon": -0.15603
+  },
+  {
+    "name": "Southwark Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.503976,
+    "lon": -0.10494
+  },
+  {
+    "name": "Southwark Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.504302,
+    "lon": -0.105632
+  },
+  {
+    "name": "Southwark Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.50427,
+    "lon": -0.105331
+  },
+  {
+    "name": "Tottenham Court Road Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.516426,
+    "lon": -0.13041
+  },
+  {
+    "name": "Tottenham Court Road Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.516408,
+    "lon": -0.131549
+  },
+  {
+    "name": "Tottenham Court Road Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.515941,
+    "lon": -0.13043
+  },
+  {
+    "name": "Tottenham Court Road Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.515904,
+    "lon": -0.130402
+  },
+  {
+    "name": "Tottenham Court Road Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.51594,
+    "lon": -0.130401
+  },
+  {
+    "name": "Temple Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.511006,
+    "lon": -0.11426
+  },
+  {
+    "name": "Temple Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.510861,
+    "lon": -0.114756
+  },
+  {
+    "name": "Temple Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.510877,
+    "lon": -0.114669
+  },
+  {
+    "name": "Tower Hill Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.509971,
+    "lon": -0.076546
+  },
+  {
+    "name": "Tower Hill Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.509663,
+    "lon": -0.076991
+  },
+  {
+    "name": "Tower Hill Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.50962,
+    "lon": -0.077108
+  },
+  {
+    "name": "Tower Hill Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.509707,
+    "lon": -0.076917
+  },
+  {
+    "name": "Victoria Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.496359,
+    "lon": -0.143102
+  },
+  {
+    "name": "Victoria Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.49645,
+    "lon": -0.144899
+  },
+  {
+    "name": "Victoria Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.49712,
+    "lon": -0.14346
+  },
+  {
+    "name": "Victoria Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.497031,
+    "lon": -0.143536
+  },
+  {
+    "name": "Victoria Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.496969,
+    "lon": -0.143596
+  },
+  {
+    "name": "Waterloo Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.503299,
+    "lon": -0.11478
+  },
+  {
+    "name": "Waterloo Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.503097,
+    "lon": -0.11512
+  },
+  {
+    "name": "Waterloo Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.503052,
+    "lon": -0.115093
+  },
+  {
+    "name": "Waterloo Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.503189,
+    "lon": -0.113574
+  },
+  {
+    "name": "Waterloo Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.503333,
+    "lon": -0.113021
+  },
+  {
+    "name": "Waterloo Underground Station",
+    "lines": [
+      "Waterloo & City"
+    ],
+    "zone": "1",
+    "lat": 51.502683,
+    "lon": -0.112875
+  },
+  {
+    "name": "Waterloo Underground Station",
+    "lines": [
+      "Waterloo & City"
+    ],
+    "zone": "1",
+    "lat": 51.502738,
+    "lon": -0.11293
+  },
+  {
+    "name": "Waterloo Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.50286,
+    "lon": -0.113819
+  },
+  {
+    "name": "Waterloo Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.503333,
+    "lon": -0.113021
+  },
+  {
+    "name": "Warren Street Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.524951,
+    "lon": -0.138321
+  },
+  {
+    "name": "Warren Street Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.524331,
+    "lon": -0.137784
+  },
+  {
+    "name": "Warren Street Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.524276,
+    "lon": -0.137757
+  },
+  {
+    "name": "Warren Street Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.524084,
+    "lon": -0.138688
+  },
+  {
+    "name": "Warren Street Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.524031,
+    "lon": -0.138719
+  },
+  {
+    "name": "Westminster Underground Station",
+    "lines": [],
+    "zone": "1",
+    "lat": 51.50132,
+    "lon": -0.124861
+  },
+  {
+    "name": "Westminster Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.501284,
+    "lon": -0.124877
+  },
+  {
+    "name": "Westminster Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.501185,
+    "lon": -0.124838
+  },
+  {
+    "name": "Westminster Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.501004,
+    "lon": -0.124773
+  },
+  {
+    "name": "Westminster Underground Station",
+    "lines": [
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.501006,
+    "lon": -0.124932
+  },
+  {
+    "name": "Battersea Power Station Underground Station",
+    "lines": [
+      "P5",
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.479932,
+    "lon": -0.142142
+  },
+  {
+    "name": "Aldgate East Underground Station",
+    "lines": [
+      "254",
+      "N25",
+      "205",
+      "25",
+      "Hammersmith & City",
+      "District",
+      "N253",
+      "N205"
+    ],
+    "zone": "1",
+    "lat": 51.515037,
+    "lon": -0.072384
+  },
+  {
+    "name": "Angel Underground Station",
+    "lines": [
+      "214",
+      "Northern",
+      "N205",
+      "394",
+      "43",
+      "56",
+      "205",
+      "4",
+      "274"
+    ],
+    "zone": "1",
+    "lat": 51.532624,
+    "lon": -0.105898
+  },
+  {
+    "name": "Aldgate Underground Station",
+    "lines": [
+      "205",
+      "N551",
+      "42",
+      "25",
+      "100",
+      "Circle",
+      "N205",
+      "N25",
+      "78",
+      "N550",
+      "15",
+      "135",
+      "N15",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.514246,
+    "lon": -0.075689
+  },
+  {
+    "name": "Barbican Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Hammersmith & City",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.520275,
+    "lon": -0.097993
+  },
+  {
+    "name": "Blackfriars Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.511581,
+    "lon": -0.103659
+  },
+  {
+    "name": "Bond Street Underground Station",
+    "lines": [
+      "Jubilee",
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.514304,
+    "lon": -0.149723
+  },
+  {
+    "name": "Bank Underground Station",
+    "lines": [
+      "Central",
+      "Waterloo & City",
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.513132,
+    "lon": -0.090047
+  },
+  {
+    "name": "Borough Underground Station",
+    "lines": [
+      "N21",
+      "Northern",
+      "21"
+    ],
+    "zone": "1",
+    "lat": 51.501199,
+    "lon": -0.09337
+  },
+  {
+    "name": "Baker Street Underground Station",
+    "lines": [
+      "Metropolitan",
+      "Circle",
+      "Hammersmith & City",
+      "Jubilee",
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.522883,
+    "lon": -0.15713
+  },
+  {
+    "name": "Bayswater Underground Station",
+    "lines": [
+      "District",
+      "Circle",
+      "70"
+    ],
+    "zone": "1",
+    "lat": 51.512284,
+    "lon": -0.187938
+  },
+  {
+    "name": "Covent Garden Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.513093,
+    "lon": -0.124436
+  },
+  {
+    "name": "Chancery Lane Underground Station",
+    "lines": [
+      "46",
+      "17",
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.518247,
+    "lon": -0.111583
+  },
+  {
+    "name": "Charing Cross Underground Station",
+    "lines": [
+      "Bakerloo",
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.50741,
+    "lon": -0.127277
+  },
+  {
+    "name": "Cannon Street Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.51151,
+    "lon": -0.090432
+  },
+  {
+    "name": "Embankment Underground Station",
+    "lines": [
+      "District",
+      "Circle",
+      "Bakerloo",
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.507058,
+    "lon": -0.122666
+  },
+  {
+    "name": "Edgware Road (Bakerloo) Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.520299,
+    "lon": -0.17015
+  },
+  {
+    "name": "Edgware Road (Circle Line) Underground Station",
+    "lines": [
+      "36",
+      "23",
+      "N18",
+      "N27",
+      "N32",
+      "205",
+      "6",
+      "Circle",
+      "District",
+      "Hammersmith & City",
+      "27",
+      "N205",
+      "18"
+    ],
+    "zone": "1",
+    "lat": 51.519858,
+    "lon": -0.167832
+  },
+  {
+    "name": "Euston Square Underground Station",
+    "lines": [
+      "Hammersmith & City",
+      "Circle",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.525604,
+    "lon": -0.135829
+  },
+  {
+    "name": "Euston Underground Station",
+    "lines": [
+      "Victoria",
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.527824,
+    "lon": -0.131846
+  },
+  {
+    "name": "Farringdon Underground Station",
+    "lines": [
+      "Hammersmith & City",
+      "Circle",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.520252,
+    "lon": -0.104913
+  },
+  {
+    "name": "Goodge Street Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.520599,
+    "lon": -0.134361
+  },
+  {
+    "name": "Green Park Underground Station",
+    "lines": [
+      "22",
+      "N22",
+      "Jubilee",
+      "Piccadilly",
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.506947,
+    "lon": -0.142787
+  },
+  {
+    "name": "Great Portland Street Underground Station",
+    "lines": [
+      "Hammersmith & City",
+      "Circle",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.52384,
+    "lon": -0.144262
+  },
+  {
+    "name": "Gloucester Road Underground Station",
+    "lines": [
+      "74",
+      "Circle",
+      "District",
+      "Piccadilly",
+      "N97",
+      "N74"
+    ],
+    "zone": "1",
+    "lat": 51.494316,
+    "lon": -0.182658
+  },
+  {
+    "name": "Holborn Underground Station",
+    "lines": [
+      "Central",
+      "8",
+      "N25",
+      "N8",
+      "N242",
+      "98",
+      "Piccadilly",
+      "N98",
+      "N207"
+    ],
+    "zone": "1",
+    "lat": 51.51758,
+    "lon": -0.120475
+  },
+  {
+    "name": "Hyde Park Corner Underground Station",
+    "lines": [
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.503035,
+    "lon": -0.152441
+  },
+  {
+    "name": "High Street Kensington Underground Station",
+    "lines": [
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.501055,
+    "lon": -0.192792
+  },
+  {
+    "name": "Knightsbridge Underground Station",
+    "lines": [
+      "22",
+      "C1",
+      "N137",
+      "19",
+      "137",
+      "452",
+      "Piccadilly",
+      "N19",
+      "N22"
+    ],
+    "zone": "1",
+    "lat": 51.501669,
+    "lon": -0.160508
+  },
+  {
+    "name": "King's Cross St. Pancras Underground Station",
+    "lines": [
+      "Victoria",
+      "Piccadilly",
+      "Hammersmith & City",
+      "Circle",
+      "Northern",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.530663,
+    "lon": -0.123194
+  },
+  {
+    "name": "Lambeth North Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.498808,
+    "lon": -0.112315
+  },
+  {
+    "name": "Lancaster Gate Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.511723,
+    "lon": -0.175494
+  },
+  {
+    "name": "London Bridge Underground Station",
+    "lines": [
+      "Northern",
+      "Jubilee"
+    ],
+    "zone": "1",
+    "lat": 51.505721,
+    "lon": -0.088873
+  },
+  {
+    "name": "Leicester Square Underground Station",
+    "lines": [
+      "Northern",
+      "Piccadilly"
+    ],
+    "zone": "1",
+    "lat": 51.511386,
+    "lon": -0.128426
+  },
+  {
+    "name": "Liverpool Street Underground Station",
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Central",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.517372,
+    "lon": -0.083182
+  },
+  {
+    "name": "Marble Arch Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.513424,
+    "lon": -0.158953
+  },
+  {
+    "name": "Moorgate Underground Station",
+    "lines": [
+      "Hammersmith & City",
+      "Circle",
+      "Northern",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.518176,
+    "lon": -0.088322
+  },
+  {
+    "name": "Monument Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.5107,
+    "lon": -0.085969
+  },
+  {
+    "name": "Mansion House Underground Station",
+    "lines": [
+      "344",
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.512117,
+    "lon": -0.094009
+  },
+  {
+    "name": "Marylebone Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.522322,
+    "lon": -0.163207
+  },
+  {
+    "name": "Old Street Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.525864,
+    "lon": -0.08777
+  },
+  {
+    "name": "Oxford Circus Underground Station",
+    "lines": [
+      "N98",
+      "N22",
+      "88",
+      "N207",
+      "N7",
+      "12",
+      "453",
+      "Bakerloo",
+      "Victoria",
+      "N113",
+      "N136",
+      "N8",
+      "73",
+      "N25",
+      "N137",
+      "N18",
+      "22",
+      "98",
+      "7",
+      "55",
+      "390",
+      "139",
+      "N109",
+      "N3",
+      "N55",
+      "Central",
+      "94",
+      "N15",
+      "N73"
+    ],
+    "zone": "1",
+    "lat": 51.515224,
+    "lon": -0.141903
+  },
+  {
+    "name": "Paddington Underground Station",
+    "lines": [
+      "Bakerloo",
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.516581,
+    "lon": -0.175689
+  },
+  {
+    "name": "Paddington (H&C Line)-Underground",
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "zone": "1",
+    "lat": 51.518187,
+    "lon": -0.178306
+  },
+  {
+    "name": "Piccadilly Circus Underground Station",
+    "lines": [
+      "Piccadilly",
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.51005,
+    "lon": -0.133798
+  },
+  {
+    "name": "Pimlico Underground Station",
+    "lines": [
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.489097,
+    "lon": -0.133761
+  },
+  {
+    "name": "Queensway Underground Station",
+    "lines": [
+      "Central"
+    ],
+    "zone": "1",
+    "lat": 51.510312,
+    "lon": -0.187152
+  },
+  {
+    "name": "Regent's Park Underground Station",
+    "lines": [
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.523344,
+    "lon": -0.146444
+  },
+  {
+    "name": "Russell Square Underground Station",
+    "lines": [
+      "SL6",
+      "68",
+      "91",
+      "N91",
+      "Piccadilly",
+      "14",
+      "1"
+    ],
+    "zone": "1",
+    "lat": 51.523073,
+    "lon": -0.124285
+  },
+  {
+    "name": "St. James's Park Underground Station",
+    "lines": [
+      "N26",
+      "148",
+      "26",
+      "24",
+      "N136",
+      "3",
+      "11",
+      "Circle",
+      "District",
+      "N11",
+      "N44",
+      "88"
+    ],
+    "zone": "1",
+    "lat": 51.499544,
+    "lon": -0.133608
+  },
+  {
+    "name": "South Kensington Underground Station",
+    "lines": [
+      "414",
+      "345",
+      "Piccadilly",
+      "14",
+      "District",
+      "Circle",
+      "49"
+    ],
+    "zone": "1",
+    "lat": 51.494094,
+    "lon": -0.174138
+  },
+  {
+    "name": "St. Paul's Underground Station",
+    "lines": [
+      "133",
+      "4",
+      "25",
+      "56",
+      "Central",
+      "76",
+      "8",
+      "N242",
+      "N8",
+      "N25"
+    ],
+    "zone": "1",
+    "lat": 51.514936,
+    "lon": -0.097567
+  },
+  {
+    "name": "Sloane Square Underground Station",
+    "lines": [
+      "N19",
+      "11",
+      "452",
+      "137",
+      "N22",
+      "Circle",
+      "District",
+      "N11",
+      "211",
+      "319",
+      "19",
+      "N137",
+      "C1",
+      "22"
+    ],
+    "zone": "1",
+    "lat": 51.49227,
+    "lon": -0.156377
+  },
+  {
+    "name": "Southwark Underground Station",
+    "lines": [
+      "Jubilee",
+      "381",
+      "N343",
+      "N381"
+    ],
+    "zone": "1",
+    "lat": 51.50427,
+    "lon": -0.105331
+  },
+  {
+    "name": "Tottenham Court Road Underground Station",
+    "lines": [
+      "Central",
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.516426,
+    "lon": -0.13041
+  },
+  {
+    "name": "Temple Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.511006,
+    "lon": -0.11426
+  },
+  {
+    "name": "Tower Hill Underground Station",
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.509971,
+    "lon": -0.076546
+  },
+  {
+    "name": "Victoria Underground Station",
+    "lines": [
+      "Circle",
+      "District",
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.496359,
+    "lon": -0.143102
+  },
+  {
+    "name": "Waterloo Underground Station",
+    "lines": [
+      "Waterloo & City",
+      "Northern",
+      "Jubilee",
+      "Bakerloo"
+    ],
+    "zone": "1",
+    "lat": 51.503299,
+    "lon": -0.11478
+  },
+  {
+    "name": "Warren Street Underground Station",
+    "lines": [
+      "Northern",
+      "134",
+      "Victoria"
+    ],
+    "zone": "1",
+    "lat": 51.524951,
+    "lon": -0.138321
+  },
+  {
+    "name": "Westminster Underground Station",
+    "lines": [
+      "Jubilee",
+      "District",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.50132,
+    "lon": -0.124861
+  },
+  {
+    "name": "Nine Elms Underground Station",
+    "lines": [
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.479912,
+    "lon": -0.128476
+  },
+  {
+    "name": "Bank",
+    "lines": [
+      "Northern",
+      "N242",
+      "N8",
+      "N25",
+      "149",
+      "388",
+      "N26",
+      "N550",
+      "Central",
+      "47",
+      "21",
+      "26",
+      "8",
+      "Waterloo & City",
+      "N133",
+      "25",
+      "43",
+      "141",
+      "N551",
+      "344",
+      "133",
+      "35",
+      "DLR",
+      "N21"
+    ],
+    "zone": "1",
+    "lat": 51.513395,
+    "lon": -0.089095
+  },
+  {
+    "name": "Bond Street",
+    "lines": [
+      "N98",
+      "N207",
+      "N7",
+      "N113",
+      "Elizabeth line",
+      "Jubilee",
+      "94",
+      "Central",
+      "390",
+      "139",
+      "98",
+      "7",
+      "N137"
+    ],
+    "zone": "1",
+    "lat": 51.513362,
+    "lon": -0.148795
+  },
+  {
+    "name": "Blackfriars",
+    "lines": [
+      "40",
+      "N89",
+      "63",
+      "N63",
+      "Thameslink",
+      "Southeastern",
+      "Circle",
+      "District"
+    ],
+    "zone": "1",
+    "lat": 51.509613,
+    "lon": -0.104166
+  },
+  {
+    "name": "Charing Cross",
+    "lines": [
+      "176",
+      "N199",
+      "N21",
+      "N44",
+      "N343",
+      "N91",
+      "N87",
+      "Southeastern",
+      "N155",
+      "Bakerloo",
+      "26",
+      "91",
+      "N26",
+      "139",
+      "N89",
+      "87",
+      "Northern"
+    ],
+    "zone": "1",
+    "lat": 51.507819,
+    "lon": -0.126137
+  },
+  {
+    "name": "Cannon Street",
+    "lines": [
+      "Circle",
+      "District",
+      "Southeastern"
+    ],
+    "zone": "1",
+    "lat": 51.511451,
+    "lon": -0.090357
+  },
+  {
+    "name": "Euston",
+    "lines": [
+      "68",
+      "91",
+      "West Midlands Trains",
+      "N20",
+      "Northern",
+      "253",
+      "1",
+      "N253",
+      "Lioness",
+      "N91",
+      "N5",
+      "Victoria",
+      "Avanti West Coast"
+    ],
+    "zone": "1",
+    "lat": 51.527365,
+    "lon": -0.132754
+  },
+  {
+    "name": "King's Cross & St Pancras International",
+    "lines": [
+      "30",
+      "Great Northern",
+      "Hull Trains",
+      "Northern",
+      "17",
+      "73",
+      "390",
+      "East Midlands Railway",
+      "63",
+      "46",
+      "214",
+      "91",
+      "259",
+      "Metropolitan",
+      "N73",
+      "Grand Central",
+      "Hammersmith & City",
+      "476",
+      "Circle",
+      "N205",
+      "Piccadilly",
+      "N63",
+      "London North Eastern Railway",
+      "Thameslink",
+      "Victoria",
+      "Lumo",
+      "205",
+      "N91",
+      "Southeastern"
+    ],
+    "zone": "1",
+    "lat": 51.531683,
+    "lon": -0.123538
+  },
+  {
+    "name": "London Bridge",
+    "lines": [
+      "N21",
+      "N199",
+      "133",
+      "35",
+      "Windrush",
+      "141",
+      "Thameslink",
+      "Southeastern",
+      "344",
+      "Jubilee",
+      "N133",
+      "N343",
+      "43",
+      "Southern",
+      "388",
+      "149",
+      "Northern",
+      "17",
+      "47",
+      "21"
+    ],
+    "zone": "1",
+    "lat": 51.505881,
+    "lon": -0.086807
+  },
+  {
+    "name": "Liverpool Street",
+    "lines": [
+      "153",
+      "Greater Anglia",
+      "Central",
+      "Metropolitan",
+      "c2c",
+      "Weaver",
+      "Elizabeth line",
+      "Hammersmith & City",
+      "Circle"
+    ],
+    "zone": "1",
+    "lat": 51.51794,
+    "lon": -0.083162
+  },
+  {
+    "name": "Marylebone",
+    "lines": [
+      "27",
+      "18",
+      "N205",
+      "Bakerloo",
+      "205",
+      "Chiltern Railways",
+      "453",
+      "2",
+      "N18",
+      "N27",
+      "N2"
+    ],
+    "zone": "1",
+    "lat": 51.521602,
+    "lon": -0.163013
+  },
+  {
+    "name": "Old Street",
+    "lines": [
+      "Great Northern",
+      "Northern",
+      "21",
+      "76",
+      "N271",
+      "135",
+      "214",
+      "205",
+      "141",
+      "43",
+      "N205"
+    ],
+    "zone": "1",
+    "lat": 51.526065,
+    "lon": -0.088193
+  },
+  {
+    "name": "Paddington",
+    "lines": [
+      "7",
+      "46",
+      "23",
+      "N27",
+      "36",
+      "Heathrow Express",
+      "N205",
+      "N7",
+      "Hammersmith & City",
+      "Circle",
+      "District",
+      "27",
+      "Great Western Railway",
+      "Bakerloo",
+      "Elizabeth line",
+      "205",
+      "16"
+    ],
+    "zone": "1",
+    "lat": 51.516981,
+    "lon": -0.17616
+  },
+  {
+    "name": "Tottenham Court Road",
+    "lines": [
+      "N171",
+      "98",
+      "N68",
+      "N25",
+      "Northern",
+      "N8",
+      "N242",
+      "N1",
+      "Central",
+      "8",
+      "188",
+      "Elizabeth line",
+      "N98",
+      "N207"
+    ],
+    "zone": "1",
+    "lat": 51.516018,
+    "lon": -0.130888
+  },
+  {
+    "name": "Victoria",
+    "lines": [
+      "2",
+      "36",
+      "24",
+      "185",
+      "26",
+      "52",
+      "170",
+      "148",
+      "N26",
+      "390",
+      "N2",
+      "C1",
+      "44",
+      "38",
+      "6",
+      "Southern",
+      "11",
+      "Victoria",
+      "N32",
+      "N38",
+      "Thameslink",
+      "N136",
+      "3",
+      "Southeastern",
+      "District",
+      "Circle",
+      "N11",
+      "C10",
+      "Gatwick Express",
+      "N44",
+      "13"
+    ],
+    "zone": "1",
+    "lat": 51.495812,
+    "lon": -0.143826
+  },
+  {
+    "name": "Waterloo",
+    "lines": [
+      "11",
+      "381",
+      "Jubilee",
+      "N381",
+      "Bakerloo",
+      "1",
+      "341",
+      "77",
+      "C10",
+      "176",
+      "South Western Railway",
+      "Northern",
+      "243",
+      "139",
+      "N171",
+      "N68",
+      "Waterloo & City",
+      "68",
+      "59",
+      "172",
+      "188",
+      "76",
+      "N1",
+      "SL6"
+    ],
+    "zone": "1",
+    "lat": 51.504269,
+    "lon": -0.113356
+  },
+  {
+    "name": "Westminster",
+    "lines": [
+      "District",
+      "Circle",
+      "N11",
+      "C10",
+      "88",
+      "N53",
+      "N44",
+      "12",
+      "159",
+      "11",
+      "Jubilee",
+      "453",
+      "N381",
+      "N155",
+      "N87",
+      "N136",
+      "3",
+      "24",
+      "26",
+      "87",
+      "N26",
+      "148",
+      "N109",
+      "N3"
+    ],
+    "zone": "1",
+    "lat": 51.501603,
+    "lon": -0.125984
+  },
+  {
+    "name": "Farringdon",
+    "lines": [
+      "Thameslink",
+      "Elizabeth line",
+      "Hammersmith & City",
+      "Circle",
+      "Metropolitan"
+    ],
+    "zone": "1",
+    "lat": 51.520214,
+    "lon": -0.105054
+  },
+  {
+    "name": "Moorgate",
+    "lines": [
+      "Northern",
+      "Great Northern",
+      "Metropolitan",
+      "76",
+      "Circle",
+      "Hammersmith & City",
+      "100"
+    ],
+    "zone": "1",
+    "lat": 51.518338,
+    "lon": -0.088627
+  }
+]
