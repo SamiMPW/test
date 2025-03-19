@@ -16,6 +16,8 @@ from datetime import datetime
 # for the map
 import pydeck as pdk
 
+from database import get_connection    # added import for DB access
+
 # Use default page style
 st.set_page_config(page_title="Tube Journey Planner")
 st.title("🚇 Tube Journey Planner – Zone 1 London")
@@ -51,14 +53,51 @@ except Exception as e:
 
 station_names = [name for name, _ in stations]
 station_ids = {name: id for name, id in stations}
+
+# Before the form, fetch journey history if a user is logged in.
+journey_history = []
+saved_origin, saved_destination = None, None
+if st.session_state.get("logged_in"):
+    username = st.session_state.get("username")
+    try:
+        con = get_connection()
+        cursor = con.cursor()
+        cursor.execute("SELECT id, origin, destination, last_searched FROM journey_history WHERE username = ?", (username,))
+        journey_history = cursor.fetchall()
+    except Exception as e:
+        st.error("Error fetching journey history: " + str(e))
+    finally:
+        con.close()
+
+# Prepare history options
+history_options = ["New Journey"]
+history_map = {"New Journey": None}
+
+# for each journey id in the database, add the journey to the history options
+for jid, origin, destination, last_searched in journey_history:
+    label = f"From: {origin}, To: {destination} - Last: {last_searched}"
+    history_options.append(label)
+    history_map[label] = (origin, destination)
+
+# Display a selectbox for journey history if user is logged in.
+selected_history = None
+if st.session_state.get("logged_in"):
+    selected_history = st.selectbox("Journey History", options=history_options)
+    if history_map[selected_history]:
+        saved_origin, saved_destination = history_map[selected_history]
+
 # Create a form with searchable drop downs for station selection
 with st.form("journey_form"):
     col1, col2 = st.columns(2)
     with col1:
-        origin_name = st.selectbox("From", options=station_names, index=station_names.index("Westminster Underground Station"),
-                                     help="Select your starting station")
+        default_origin = saved_origin if saved_origin in station_names else "Westminster Underground Station"
+        origin_default_index = station_names.index(default_origin)
+        origin_name = st.selectbox("From", options=station_names, index=origin_default_index,
+                                   help="Select your starting station")
     with col2:
-        destination_name = st.selectbox("To", options=station_names, index=station_names.index("Bank Underground Station"),
+        default_destination = saved_destination if saved_destination in station_names else "Bank Underground Station"
+        destination_default_index = station_names.index(default_destination)
+        destination_name = st.selectbox("To", options=station_names, index=destination_default_index,
                                         help="Select your destination station")
     submitted = st.form_submit_button("Plan Journey")
 
@@ -176,12 +215,37 @@ def display_journey(journey, idx):
 if submitted:
     origin_id = station_ids[origin_name]
     destination_id = station_ids[destination_name]
-    with st.spinner("Fetching journey details…"):
-        data = fetch_journey(origin_id, destination_id)
-        if data:
-            journeys = data.get("journeys", [])
-            if not journeys:
-                st.error("No journeys found.")
+    
+    # If logged in, update journey search history.
+    if st.session_state.get("logged_in"):
+        username = st.session_state.get("username")
+        try:
+            # connect to database to search previous journeys
+            con = get_connection()
+            cursor = con.cursor()
+            cursor.execute("SELECT id FROM journey_history WHERE username = ? AND origin = ? AND destination = ?",
+                           (username, origin_name, destination_name))
+            record = cursor.fetchone()
+            now = datetime.now().strftime("%Y-%m-%d %H:%M")  # Current date and time
+            if record:
+                # Update the last searched time for the journey
+                cursor.execute("UPDATE journey_history SET last_searched = ? WHERE id = ?", (now, record[0]))
             else:
-                for idx, journey in enumerate(journeys, start=1):
-                    display_journey(journey, idx)
+                # Insert new journey into the database
+                cursor.execute("INSERT INTO journey_history (username, origin, destination, last_searched) VALUES (?, ?, ?, ?)",
+                               (username, origin_name, destination_name, now))
+            con.commit()
+        except Exception as e:
+            st.error("Error updating journey history: " + str(e))  # Display error message
+        finally:
+            con.close()  # Close the connection
+    
+    with st.spinner("Fetching journey details…"):
+        data = fetch_journey(origin_id, destination_id)  # Fetch journey details
+        if data:
+            journeys = data.get("journeys", [])  #  Get the journey details
+            if not journeys:
+                st.error("No journeys found.")  # Display error message if no journeys found
+            else:
+                for idx, journey in enumerate(journeys, start=1):  # Display each journey
+                    display_journey(journey, idx)  

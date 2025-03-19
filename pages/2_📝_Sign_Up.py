@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import os
 from database import get_connection, create_tables
-
+import bcrypt
 
 
 def password_strength_check(password):
@@ -21,17 +21,13 @@ def password_strength_check(password):
 
 def signup():
     st.title("Sign Up")
-
-    username = st.text_input("Choose a username")
-    password = st.text_input("Choose a password", type="password")
-    confirm_password = st.text_input("Confirm password", type="password")
-    signup_button = st.button("Sign Up")
-
-    if signup_button:
-        if not username or not password or not confirm_password:
-            st.error("All fields are required.")
+    username = st.text_input("Username")
+    password = st.text_input("Password", type="password")
+    confirm_password = st.text_input("Confirm Password", type="password")
+    if st.button("Sign Up"):
+        if not username:
+            st.error("Username cannot be empty.")
             return
-
         if password != confirm_password:
             st.error("Passwords do not match.")
             return
@@ -43,31 +39,24 @@ def signup():
 
         try:
             con = get_connection()
-            
-            # cursor's job is to collect database queries etc
             cursor = con.cursor()
-            
+            # Check if username already exists.
             cursor.execute("SELECT * FROM users WHERE username = ?", (username,))
-            
-            # fetchone: Fetch the next row of a query result
-            # basically if name already exists, then the username is taken
             if cursor.fetchone() is not None:
                 st.error("Username already exists.")
                 return
-            
-            # insert new user
-            cursor.execute("INSERT INTO users (username, password) VALUES (?, ?)", (username, password))
-            
-            # commit the changes
+
+            # Hash the password
+            salt = bcrypt.gensalt()
+            hashed_pw = bcrypt.hashpw(password.encode('utf-8'), salt)
+            # Insert new user with hashed password.
+            cursor.execute("INSERT INTO users (username, password) VALUES (?, ?)", (username, hashed_pw))
             con.commit()
-            
-            # success message
             st.success("User created successfully.")
-        
+
         except Exception as e:
             st.error(f"An error occurred: {str(e)}")
-        
-        # last step if we are able to run the code above, we close the connection to the db
+
         finally:
             if con:
                 con.close()

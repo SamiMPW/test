@@ -51,13 +51,24 @@ def create_tables():
         """
     )
 
+    # create journey_history table
+    cursor.execute(
+        """
+        CREATE TABLE IF NOT EXISTS journey_history (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL,
+            origin TEXT NOT NULL,
+            destination TEXT NOT NULL,
+            last_searched TEXT NOT NULL
+        )
+    """)
+
     # commit the creation tables
     con.commit()
 
     # close the connection
     con.close()
-    
-    
 
-    
-    
+
+
+

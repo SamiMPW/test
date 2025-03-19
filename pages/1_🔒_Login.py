@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import json
 from database import get_connection
+import bcrypt
 
 def login():
     st.title("Login")
@@ -11,6 +12,8 @@ def login():
         st.session_state["logged_in"] = False
 
     username = st.text_input("Username")
+    
+    # password needs to be hashed
     password = st.text_input("Password", type="password")
     login_button = st.button("Login")
 
@@ -18,9 +21,10 @@ def login():
         try:
             con = get_connection()
             cursor = con.cursor()
-            cursor.execute("SELECT * FROM users WHERE username = ? AND password = ?", (username, password))
-            users = cursor.fetchall()
-            if users:
+            # Query by username only.
+            cursor.execute("SELECT password FROM users WHERE username = ?", (username,))
+            row = cursor.fetchone()
+            if row and bcrypt.checkpw(password.encode('utf-8'), row[0]):
                 st.session_state["logged_in"] = True
                 st.session_state["username"] = username
                 st.success("Login successful!")
