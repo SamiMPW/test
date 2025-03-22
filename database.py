@@ -25,7 +25,7 @@ def create_tables():
     # using the function from earlier to establish the connection
     con = get_connection()
 
-    # intialise cursor, cursor lets us interact with the sql db
+    # intialise cursor, cursor lets me interact with the sql db
     cursor = con.cursor()
 
     # create users table
@@ -44,9 +44,10 @@ def create_tables():
         """
         CREATE TABLE IF NOT EXISTS feedback (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            user_id INTEGER,
+            username STRING NOT NULL,
             feedback_text STRING NOT NULL,
-            FOREIGN KEY (user_id) REFERENCES users(id)
+            rating INTEGER NOT NULL,
+            FOREIGN KEY (username) REFERENCES users(username)
         );
         """
     )

@@ -1,4 +1,4 @@
-# streamlit for web design
+# streamlit for web designD
 import streamlit as st
 
 # requests for api access
@@ -58,13 +58,13 @@ station_ids = {name: id for name, id in stations}
 journey_history = []
 saved_origin, saved_destination = None, None
 if st.session_state.get("logged_in"):
-    username = st.session_state.get("username")
+    username = st.session_state.get("username") # get the username from the session
     try:
         con = get_connection()
         cursor = con.cursor()
-        cursor.execute("SELECT id, origin, destination, last_searched FROM journey_history WHERE username = ?", (username,))
-        journey_history = cursor.fetchall()
-    except Exception as e:
+        cursor.execute("SELECT id, origin, destination, last_searched FROM journey_history WHERE username = ?", (username,)) # get the journey history for the user
+        journey_history = cursor.fetchall() 
+    except Exception as e: #Display error message if an error happens
         st.error("Error fetching journey history: " + str(e))
     finally:
         con.close()
@@ -90,16 +90,16 @@ if st.session_state.get("logged_in"):
 with st.form("journey_form"):
     col1, col2 = st.columns(2)
     with col1:
-        default_origin = saved_origin if saved_origin in station_names else "Westminster Underground Station"
+        default_origin = saved_origin if saved_origin in station_names else "Westminster Underground Station" # set the default starting point to the default starting point if it exists else set to Westminster
         origin_default_index = station_names.index(default_origin)
         origin_name = st.selectbox("From", options=station_names, index=origin_default_index,
-                                   help="Select your starting station")
+                                   help="Select your starting station") #set  the starting station
     with col2:
-        default_destination = saved_destination if saved_destination in station_names else "Bank Underground Station"
+        default_destination = saved_destination if saved_destination in station_names else "Bank Underground Station" # set the default destination to the saved destination if it exists else set to Bank
         destination_default_index = station_names.index(default_destination)
         destination_name = st.selectbox("To", options=station_names, index=destination_default_index,
-                                        help="Select your destination station")
-    submitted = st.form_submit_button("Plan Journey")
+                                        help="Select your destination station") # select the destination station
+    submitted = st.form_submit_button("Plan Journey") # submit button
 
 
 def fetch_journey(origin_id, destination_id):
@@ -124,7 +124,7 @@ def fetch_journey(origin_id, destination_id):
 
 # api gives times in a specific format, need to convert to be more readable
 # iso format: 2021-10-01T12:34:56
-# we want: 12:34
+# I want: 12:34
 def format_time(iso_str):
     try:
         dt = datetime.fromisoformat(iso_str)

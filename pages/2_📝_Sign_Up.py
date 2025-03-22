@@ -6,10 +6,7 @@ import bcrypt
 
 
 def password_strength_check(password):
-    """
-    A very basic password strength check.
-    Extend with more rules as needed.
-    """
+ 
     # https://www.geeksforgeeks.org/python-test-if-string-contains-any-uppercase-character/
 
     if len(password) < 6:
@@ -63,7 +60,7 @@ def signup():
 
 def main():
     
-    # we need to create the tables before we can run the signup function
+    #I need to create the tables before we can run the signup function
     create_tables()
     signup()
 

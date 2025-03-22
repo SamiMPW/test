@@ -6,6 +6,7 @@ def feedback():
     st.write("Please share your thoughts or bugs you've encountered.")
 
     feedback_text = st.text_area("Your feedback here")
+    star_rating = st.slider("Rate your experience (1-5 stars)", min_value=1, max_value=5, value=3)
     submit_button = st.button("Submit")
 
     if submit_button:
@@ -16,21 +17,15 @@ def feedback():
                 con = get_connection()
                 cursor = con.cursor()
                  # Assuming the user is logged in and their username is stored in session state
-                username = st.session_state.get("username", "anonymous")
+                username = st.session_state.get("username", "Anonymous user")
 
                 # Get the user id from username
                 cursor.execute("SELECT id FROM users WHERE username = ?", (username,))
                 # fetchone: Fetch the next row of a query result
-                user_id = cursor.fetchone()
-
-                # Checks if user has an id
-                if user_id:
-                   user_id = user_id[0]
-                else:
-                    user_id = "Anonymous user" # anonymous user
-
                 # Insert feedback into the feedback table
-                cursor.execute("INSERT INTO feedback (user_id, feedback_text) VALUES (?, ?)", (user_id, feedback_text))
+                cursor.execute(
+                    "INSERT INTO feedback (user_id, feedback_text, rating) VALUES (?, ?, ?)",
+                    (username, feedback_text, star_rating))
                 con.commit()
 
                 st.success("Thank you for your feedback!")
